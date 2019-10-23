@@ -1,0 +1,15 @@
+id: 1
+author: Helen Craig McCullough
+source: The Tale of the Heike
+quote: The sound of the Gion Shoja temple bells echoes the impermanence of all things; the color of the sala flowers reveals the truth that to flourish is to fall. The proud do not endure, like a passing dream on a night in spring; the mighty fall at last, to be no more than dust before the wind.
+
+id: 2
+author: Thich Nat Hahn
+source: Peace Is Every Step: The Path of Mindfulness in Everyday Life
+quote: Walk as if you are kissing the Earth with your feet
+
+id: 3
+author: Alan Watts
+source: Out of Mind lectures, part 4
+quote: Man suffers only because he takes seriously what the gods made for fun.
+
